@@ -1,0 +1,10 @@
+# Fetched data — odds snapshots, Sleeper stats, game lines, model output
+data/
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+# Local secrets / keys — never commit an API key
+.env
