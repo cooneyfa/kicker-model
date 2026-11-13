@@ -1,0 +1,2 @@
+# No dependencies — Python 3.12+ standard library only.
+# The Odds API key is supplied via the THE_ODDS_API_KEY environment variable.
